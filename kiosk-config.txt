@@ -1,0 +1,15 @@
+connection=wired
+dhcp=yes
+browser=chrome
+dpms_idle=15
+homepage=https://leopoldsburg.bibliotheek.be
+hostname=BIB-kiosk-01
+session_idle=10
+primary_keyboard_layout=be
+allow_popup_windows=yes
+shutdown_menu=reboot restart-session shutdown 
+timezone=Europe/Brussels
+whitelist=bibliotheek.be
+additional_components=uefi.zip 
+
+
